@@ -55,7 +55,7 @@ function createTaskCard(task) {
     cardDueDate.className = 'card-text';
     cardDueDate.textContent = task.dueDate;
   const cardDeleteBtn = document.createElement('button');
-  cardDeleteBtn.className = 'delete';
+    cardDeleteBtn.className = 'delete bg-warning';
     cardDeleteBtn.textContent= 'delete';
 
   
