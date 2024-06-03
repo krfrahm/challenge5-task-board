@@ -10,8 +10,8 @@ For repository: https://github.com/krfrahm/supercool-blog.git
 For website: https://krfrahm.github.io/supercool-blog/index.html
 
 
-![Website screenshot 1]()
-![Website screenshot 2]()
+![Website screenshot 1](./assets/images/task-board.PNG)
+![Website screenshot 2](./assets/images/task-board2.PNG)
 
 ## Credits
 
