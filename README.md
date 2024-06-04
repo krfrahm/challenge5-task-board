@@ -6,8 +6,8 @@ This is a web page for logging and tracking tasks that need to be completed. The
 
 ## Usage
 
-For repository: https://github.com/krfrahm/supercool-blog.git
-For website: https://krfrahm.github.io/supercool-blog/index.html
+For repository: https://github.com/krfrahm/challenge5-task-board.git
+For website: https://krfrahm.github.io/challenge5-task-board/index.html
 
 
 ![Website screenshot 1](./assets/images/task-board.PNG)
